@@ -1,4 +1,4 @@
-live link(https://adityarai11.github.io/Expance-tracker/)
+live link
 
 
 Simple Expense Tracker
